@@ -1,1 +1,1 @@
-# Photorealistic style transfer
+# Covid XRay Chestnet
